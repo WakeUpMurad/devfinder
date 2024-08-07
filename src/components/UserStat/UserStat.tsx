@@ -1,4 +1,3 @@
-// @ts-ignore
 import styles from './UserStat.module.scss'
 import {LocalGithubUser} from "../../types"
 

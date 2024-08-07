@@ -1,7 +1,5 @@
 import React from 'react'
-// @ts-ignore
 import styles from './Search.module.scss'
-// @ts-ignore
 import {ReactComponent as SearchIcon} from '../../assets/icon-search.svg'
 import {Button} from "../Button"
 
@@ -45,9 +43,7 @@ export const Search = ({onSubmit, hasError}: SearchProps) => {
 
 // using useRef
 // import React, {useRef} from 'react'
-// // @ts-ignore
 // import styles from './Search.module.scss'
-// // @ts-ignore
 // import {ReactComponent as SearchIcon} from '../../assets/icon-search.svg'
 // import {Button} from "../Button"
 //

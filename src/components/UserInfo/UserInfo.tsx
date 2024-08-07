@@ -1,12 +1,7 @@
-// @ts-ignore
 import {ReactComponent as CompanyIcon} from '../../assets/icon-company.svg'
-// @ts-ignore
 import {ReactComponent as LocationIcon} from '../../assets/icon-location.svg'
-// @ts-ignore
 import {ReactComponent as TwitterIcon} from '../../assets/icon-twitter.svg'
-// @ts-ignore
 import {ReactComponent as BlogIcon} from '../../assets/icon-website.svg'
-// @ts-ignore
 import styles from './UserInfo.module.scss'
 import {LocalGithubUser} from "../../types"
 import {InfoItem, InfoItemProps} from "../InfoItem"

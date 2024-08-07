@@ -1,4 +1,3 @@
-// @ts-ignore
 import styles from './InfoItem.module.scss'
 import {ReactNode} from "react"
 
